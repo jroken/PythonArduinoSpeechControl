@@ -39,3 +39,15 @@ if (data == 'b'){
   digitalWrite(10, HIGH);
   digitalWrite(11, LOW);
 }
+
+void led_HIGH(a, b, c, d, e, f, g, h) {
+  digitalWrite(a, HIGH);
+  digitalWrite(b, HIGH);
+  digitalWrite(c, HIGH);
+  digitalWrite(d, HIGH);
+  digitalWrite(e, HIGH);
+  digitalWrite(f, HIGH);
+  digitalWrite(g, HIGH);
+  digitalWrite(h, HIGH);
+}
+
