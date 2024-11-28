@@ -38,5 +38,5 @@ while True:
 
     if (veri == 'mavi Işıkları aç'):
         ArduinoSerial.write(b'b')
-        speak('Open The All Blue Light') ## Mavi ışıkları Açar 
+        speak('Mavi Işıklar Açıldı') ## Mavi ışıkları Açar 
         ## aşağıya doğru istediğiniz komutları ekleyebilirsiniz iyi çalışmalar
